@@ -1,1 +1,4 @@
-<?php phpinfo(); ?>
+<?php 
+//add a comment
+phpinfo(); 
+?>
